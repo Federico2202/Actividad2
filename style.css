@@ -1,0 +1,22 @@
+#primero{
+    background-color: #FFBCAC;
+}
+#container{
+    margin: auto;
+    background: aquamarine;
+}
+#anime{
+    float: right;
+    border: solid 1px red;
+    
+}
+#segundo{
+    margin: auto;
+    float: right;
+    padding: 0em 0em 0em 4em;
+}
+footer{
+    background-color: #FFBCAC;
+    padding: 0em 0em 0em 50em;
+    overflow: hidden;
+}
