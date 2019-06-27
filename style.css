@@ -2,7 +2,7 @@
     background-color: #FFBCAC;
 }
 #container{
-    margin: auto;
+
     background: aquamarine;
 }
 #anime{
@@ -13,10 +13,23 @@
 #segundo{
     margin: auto;
     float: right;
-    padding: 0em 0em 0em 4em;
 }
 footer{
     background-color: #FFBCAC;
     padding: 0em 0em 0em 50em;
     overflow: hidden;
+}
+#anime2{
+float: right;
+}
+#video1{
+    float: right;
+}
+#B1{
+    margin: auto;
+    float: right;
+    padding: 0em 0em 0em 4em;
+}
+#H1{
+    background-color: aquamarine;
 }
